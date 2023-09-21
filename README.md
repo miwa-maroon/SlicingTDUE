@@ -50,6 +50,9 @@ Find the following sample maps in the `Maps` folder:
      ![niagaramaterial](https://github.com/miwa-maroon/SlicingTDUE/assets/65750938/a27e2ea6-2721-4297-b72c-047ac57a4282)
 
    - Within Niagara, create a Material Instance Parameter. Then, set it as a User Param Binding in the override material section.
+  
+
+
 ![particle](https://github.com/miwa-maroon/SlicingTDUE/assets/65750938/e72f1622-72b7-4bd1-9074-8339b3d3d67b)
 
 5. Modify all used materials:
